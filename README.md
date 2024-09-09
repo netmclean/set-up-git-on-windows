@@ -77,7 +77,7 @@ Hi username! You've successfully authenticated, but GitHub does not provide shel
 ### Initialize a local Git repository and 'commit' your README file:
 - initialize your repository by typing: `git init`
 - add your file with `git add .`
-- create your first commit by typeing: `git commit -a=m "hello world"`
+- create your first commit by typeing: `git commit -m "hello world"`
 
 ### Create a new project on GitHub:
 - in your web-browser, go to https://github.com/new
